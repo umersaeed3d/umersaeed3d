@@ -6,7 +6,7 @@
 
 🌱 Also I’m currently learning advanced web security to get ahead in Backend Development.
 
-### Disclaimer : Do not judge me based on my contributions because I was using different account for jobs, however this is my official account now.
+
 
 <!--
 **umersaeed3d/umersaeed3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
